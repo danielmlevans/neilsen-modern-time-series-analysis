@@ -1,5 +1,20 @@
 # Tutorial Sessions for SciPy Con 2019
 
+
+
+
+# References
+
+- https://project.inria.fr/aaltd22/
+	- https://link.springer.com/book/10.1007/978-3-030-91445-5
+- https://www.timeseriesclassification.com/
+- [https://arxiv.org/pdf/1901.10200.pdf](https://arxiv.org/pdf/1901.10200.pdf)
+
+
+
+
+---
+
 I couldn't attend every tutorial, but these seemed like fun:
 
 
